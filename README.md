@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Linux, AWS and Kubernetes**
 
-- 📄 Know about my experiences [I'm AWS certified Solutions Architect and RHCSA.](I'm AWS certified Solutions Architect and RHCSA.)
+- 📄 Know about my experiences [I'm AWS certified Solutions Architect and RHCSA.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
