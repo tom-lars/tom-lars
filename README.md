@@ -2,7 +2,7 @@
 
 I'm a DevOps enthusiast passionate about building scalable and secure infrastructure. I specialize in cloud-native technologies, container orchestration, automation, and CI/CD pipelines. Whether it's deploying a serverless app on AWS or managing microservices on Kubernetes, I love turning complex infrastructure problems into clean, automated solutions.
 
----
+
 
 ## 🔧 Tech Stack
 
