@@ -1,17 +1,50 @@
-<h1 align="center">Hi 👋, I'm Siddhant Tiwari</h1>
-<h3 align="center">Passionate about DevSecOps.</h3>
+# 👋 Hi, I'm Siddhant Tiwari
 
-- 🌱 I’m currently learning **Kubernetes, CI/CD and Infrastructure as a code.**
+I'm a DevOps enthusiast passionate about building scalable and secure infrastructure. I specialize in cloud-native technologies, container orchestration, automation, and CI/CD pipelines. Whether it's deploying a serverless app on AWS or managing microservices on Kubernetes, I love turning complex infrastructure problems into clean, automated solutions.
 
-- 💬 Ask me about **Linux, AWS and Kubernetes**
+---
 
-- 📄 Know about my experiences [I'm AWS certified Solutions Architect and RHCSA.]
+## 🔧 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/siddhant-tiwari-884653177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/siddhant-tiwari-884653177" height="30" width="40" /></a>
-</p>
+- **Cloud:** AWS (EC2, S3, Lambda, API Gateway, SQS, SES)
+- **Containers & Orchestration:** Docker, Docker Swarm, Kubernetes (EKS)
+- **CI/CD:** Jenkins, GitHub Actions, Ansible
+- **Automation & IaC:** Terraform, Ansible
+- **Monitoring:** Prometheus, Grafana
+- **Security Tools:** Burpsuite, OWASP ZAP, Nmap, Nessus, Hashcat
+- **Languages & Scripting:** Bash, YAML
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
 
+## 📌 Notable Projects
+
+- 🔹 [**Serverless Bulk Email System**](https://github.com/tom-lars/AWS_email_solution.git)  
+  Built a fully serverless solution using API Gateway, Lambda, SQS, and SES to send bulk emails at scale — complete with DLQ and secured public endpoints.
+
+- 🔹 [**Yii2 App CI/CD with Ansible & Docker Swarm**](https://github.com/tom-lars/Git_action_CI-CD.git)  
+  End-to-end deployment on EC2 using Docker Swarm and automated pipelines with GitHub Actions and Ansible.
+
+- 🔹 [**Flask App on Kubernetes with NGINX Ingress**](https://github.com/tom-lars/devops/blob/10a2a6cb60e65ffe6a6c4453f81d9928ed8987cd/kubernetes/flask_k8s.md)  
+  Deployed a Python Flask app on EKS using Redis and managed routing with NGINX Ingress Controller.
+
+- 🔹 [**Multi-path & Subdomain Routing on EKS**](https://github.com/tom-lars/devops/blob/10a2a6cb60e65ffe6a6c4453f81d9928ed8987cd/kubernetes/ingress.md)  
+  Implemented advanced ingress rules for applications with different paths and subdomains.
+
+- 🔹 [**Monitoring with Prometheus & Grafana**](https://github.com/tom-lars/devops/blob/10a2a6cb60e65ffe6a6c4453f81d9928ed8987cd/Monitoring/PromQL.md)  
+  Integrated Prometheus and Grafana into EKS clusters to monitor live application metrics.
+
+---
+
+## 🛠️ Currently Learning
+
+- Advanced Kubernetes patterns
+- AWS CDK & advanced serverless architecture
+- Security automation & compliance in DevOps pipelines
+
+---
+
+## 📫 Let's Connect
+
+📧 tiwarisiddhant000@gmail.com  
+🔗 [LinkedIn](http://www.linkedin.com/in/siddhant-tiwari-884653177)  
+🧠 Resume available on request
