@@ -44,7 +44,6 @@ I'm a DevOps enthusiast passionate about building scalable and secure infrastruc
 ---
 
 ## 📫 Let's Connect
-
-📧 tiwarisiddhant000@gmail.com  
+ 
 🔗 [LinkedIn](http://www.linkedin.com/in/siddhant-tiwari-884653177)  
 🧠 Resume available on request
